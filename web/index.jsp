@@ -13,6 +13,6 @@
         <title>Inicio</title>
     </head>
     <body>
-        <h1>Gurrupleta asquerosa!</h1>
+        <h1>Hola!</h1>
     </body>
 </html>
